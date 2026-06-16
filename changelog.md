@@ -62,7 +62,7 @@ The format is based on version releases and follows a clear history of features,
 * Built-in media player support.
 * Clean and easy-to-use interface.
 
----
+----
 
 ## Upcoming Features
 
