@@ -1,11 +1,11 @@
 {
   "app_name": "ZIM IPTV",
   "package_name": "com.zim.iptv",
-  "version_code": 3,
-  "version_name": "3.0",
+  "version_code": 4,
+  "version_name": "4.0",
   "release_date": "2026-06-16",
   "force_update": false,
   "update_message": "New channels added, improved player performance and bug fixes.",
-  "apk_url": "https://github.com/ziabul2/ZIM-IPTV/releases/tag/v3.0",
+  "apk_url": "https://github.com/ziabul2/ZIM-IPTV/releases/tag/v4.0",
   "website": "https://github.com/ziabul2/ZIM-IPTV"
 }
