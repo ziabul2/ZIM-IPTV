@@ -1,11 +1,11 @@
 {
   "app_name": "ZIM IPTV",
   "package_name": "com.zim.iptv",
-  "version_code": 6,
-  "version_name": "6.0",
-  "release_date": "2026-06-21",
+  "version_code": 7,
+  "version_name": "7.0",
+  "release_date": "2026-06-22",
   "force_update": false,
-  "update_message": "ZIM IPTV v6.0.0 – The Ultimate Power & Control Update.",
-  "apk_url": "https://github.com/ziabul2/ZIM-IPTV/releases/tag/v6.0",
+  "update_message": "ZIM IPTV v7.0 – The Ultimate Power & Control Update.",
+  "apk_url": "https://github.com/ziabul2/ZIM-IPTV/releases/tag/v7.0",
   "website": "https://github.com/ziabul2/ZIM-IPTV"
 }
